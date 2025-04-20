@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Lei Ming! 
 
 `Java Developer` | `Software Tester` | `Problem Solver`  
-📍 Shenzhen, China | ✉️ 458261197@qq.com | 📱 177-5077-0756  
+📍 Shenzhen, China | ✉️ lmao.mr@foxmail.com | 📱 177-5077-0756  
 
 ### **About Me**
 - 🔭 Currently: Java Developer (求职中) | Ex-Software Tester at Huaqin Technology
