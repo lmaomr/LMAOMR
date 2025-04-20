@@ -3,8 +3,6 @@
 `Java Developer` | `Software Tester` | `Problem Solver`  
 📍 Shenzhen, China | ✉️ 458261197@qq.com | 📱 177-5077-0756  
 
-![](https://wy-static.wenxiaobai.com/chat-doc/9bc9bfadcbd6afe3d2e28f62dc6785c1-image.png)  
-
 ### **About Me**
 - 🔭 **Currently**: Java Developer (求职中) | Ex-Software Tester at **Huaqin Technology**  
 - 🌱 **Learning**: Spring Cloud & JVM Performance Tuning  
@@ -37,9 +35,7 @@
 - 📜 Certifications: Oracle Java SE 8 (备考) | RHCSA  
 
 ### **Hobbies**  
-🎵 Music | 🏋️ Fitness | 📖 Military History  
-![](https://wy-static.wenxiaobai.com/chat-doc/efd84695d7573f3ab93e20a37b9954f2-image.png)  
-
+🎵 Music | 🏋️ Fitness | 📖 Military History    
 ---
 
 📊 **My GitHub Stats**  
